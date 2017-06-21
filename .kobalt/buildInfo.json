@@ -1,0 +1,14 @@
+{
+  "tasks": [
+    {
+      "taskName": "kobalt-example:compile",
+      "inputChecksum": "5c630bf2417ef63093733c70c36ec1de",
+      "outputChecksum": "6f424af65ed6b640cae14bf46d3bbf7b"
+    },
+    {
+      "taskName": "kobalt-example:compileTest",
+      "inputChecksum": "1ab3409bf5d9f38c1e55f51483a4fa63",
+      "outputChecksum": "ca7a7b1f56ed175d8cbb5b9525e9f8ef"
+    }
+  ]
+}
